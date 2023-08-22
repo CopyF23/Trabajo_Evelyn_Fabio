@@ -17,6 +17,12 @@ public class Vehicle {
         this.color = color;
         this.cantAsientos = cantAsientos;
     }
+    
+    public Vehicle() {
+        this.placal = "";
+        this.color = "";
+        this.cantAsientos = 0;
+    }
 
     // Propiedades
     public void setPlacal(String placal) {
