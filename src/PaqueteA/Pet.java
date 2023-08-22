@@ -20,6 +20,7 @@ public class Pet {
         this.especie = especie;
     }
 
+    
     public Pet() {
         nombre = "";
         especie = "";
@@ -44,5 +45,7 @@ public class Pet {
     public void setEspecie(String especie) {
         this.especie = especie;
     }
+    
+    
 
 }
