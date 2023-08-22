@@ -1,7 +1,6 @@
 /*
 Nombre: Evelyn Paniagua | Fabio Torres
 Fecha: 22/08/2023
-
 */
 package PaqueteA;
 
